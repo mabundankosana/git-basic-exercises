@@ -1,0 +1,166 @@
+    1  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-394-bash-for-bootcamp-.git
+    2  git clone
+    3  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-219-level-1-programming-katas-javascript.git
+    4  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-219-level-1-programming-katas-javascript.git
+    5  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-219-level-1-programming-katas-javascript.git
+    6  git add .
+    7  git commit -m "Hello"
+    8  git push
+    9  git push --set origin
+   10  git push --set-upstream origin task/2
+   11  git push --set-upstream origin tasl/5
+   12  git push --set-upstream origin task/5
+   13  git checkout main
+   14  git pull
+   15  git checkout -b task/6
+   16  git add .
+   17  git status
+   18  git push
+   19  git add .
+   20  git commit -m "Hello"
+   21  git push
+   22  git push --set-upstream origin task/6
+   23  git checkout main
+   24  git checkout -b task/7
+   25  git add .
+   26  git commit -m "Hello"
+   27  git push --set-upstream origin task/7
+   28  git checkout main
+   29  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-429-bootcamp-writing-assignment-.git
+   30  git checkout task/2
+   31  edit task2.js
+   32  nano task2.js
+   33  git checkout task/2
+   34  nano task2.js
+   35  git add .
+   36  git add task2.js
+   37  git commit -m "task2.js"
+   38  git add .
+   39  git push --set-upstream origin task/2
+   40  git checkout main
+   41  git checkout task/2
+   42  git log
+   43  git status
+   44  git add task2.js
+   45  git status
+   46  rm -r task2.js
+   47  ls
+   48  rm -rf
+   49  rm -rf task2.js
+   50  ls
+   51  git checkout -b task/2
+   52  git checkout -b task/2
+   53  git pull
+   54  git branch --delete task/2
+   55  checkout main
+   56  git checkout main
+   57  git branch --delete task/2
+   58  git branch
+   59  git checkout -b task/2
+   60  git add .
+   61  git commit -m "Hello"
+   62  git push
+   63  git push --set-upstream origin task/2
+   64  git checkout main
+   65  git clone
+   66  git clone https://github.com/Umuzi-org/NkosanaGabriel-Mabunda-223-person-javascript.git
+   67  cd NkosanaGabriel-Mabunda-223-person-javascript
+   68  git checkout -b feature-xyz
+   69  touch person.js
+   70  git branch -m old-branch new-branch
+   71  git branch -m feature-xyz new-branch
+   72  git checkout -b person
+   73  touch person.js
+   74  git add .
+   75  git commit -m "IM DONE WITH THIS PROJECT"
+   76  git-basic-exercises
+   77  ls -a
+   78  mkdir git-basic-exercises
+   79  cd git-basic-exercises
+   80  ls -a
+   81  git init
+   82  ls -a
+   83  git status
+   84  touch README.md
+   85  ls -a
+   86  git status
+   87  git log
+   88  git add
+   89  git add .
+   90  git status
+   91  git status
+   92  git commit -m "initial commit"
+   93  git log
+   94  q
+   95  nano README.md
+   96  cat README.md
+   97  git status
+   98  "second commit"
+   99  "third commit"
+  100  git log
+  101  git commit -m "second commit"
+  102  git commit -m "third commit"
+  103  git log
+  104  git commit -m "second commit"
+  105  git commit -m "third commit"
+  106  git add .
+  107  git commit -a
+  108  git-basic-exercises
+  109  cd myproject
+  110  rm -rf git-basic-exercises/
+  111  cls
+  112  clear
+  113  mkdir git-basic-exercises
+  114  cd git-basic-exercises/
+  115  git init --initial-branch=main
+  116  git branch
+  117  ls -la
+  118  clear
+  119  touch README.md
+  120  git status
+  121  git log
+  122  git add README.md
+  123  git commit -m "initial commit"
+  124  git log
+  125  clear
+  126  nano README.md 
+  127  cat README.md 
+  128  clear
+  129  git status
+  130  git add README.md
+  131  git commit -m "second commit"
+  132  nano README.md 
+  133  git status
+  134  git add README.md
+  135  git commit -m "third commit"
+  136  clear
+  137  git log
+  138  git checkout 7bce89cdd9aa9acbfa2827eee5a7c5637aa08b4b
+  139  cat README.md 
+  140  git checkout main
+  141  git branch
+  142  git branch -b milkshake-flavours
+  143  git branch milkshake-flavours
+  144  clear
+  145  git branch
+  146  git checkout milkshake-flavours
+  147  git branch
+  148  nano milkshakes.md
+  149  git commit -m "added initial flavours"
+  150  git add milkshakes.md 
+  151  git commit -m "added initial flavours"
+  152  clear
+  153  git log
+  154  git checkout main
+  155  clear
+  156  git branch history
+  157  git status
+  158  git branch
+  159  git log
+  160  clear
+  161  history > history.txt
+  162  rm history.txt 
+  163  git status
+  164  clear
+  165  git checkout history
+  166  history > history.txt
